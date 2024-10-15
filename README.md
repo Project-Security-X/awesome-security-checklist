@@ -7,13 +7,14 @@ Contributions are encouraged to keep the checklist up to date with the latest se
 ## Security Policy
 
 - [How to create](./SECURITY-POLICY.md)
+
+## Responsible Disclosure Policy
 - [Responsible Disclosure Policy](./RESPONSIBLE-DISCLOSURE.md)
-- [Security Email](./SECURITY-CONTACT.md)
 
 ## Incident Response
 
 - [Incident Response Guide](./INCIDENT-RESPONSE.md)
-- [Incident Response Contact](./INCIDENT-CONTACT.md)
+- [Incident Response Playbooks](./INCIDENT-RESPONSE-PLAYBOOKS)
 
 ---
 
